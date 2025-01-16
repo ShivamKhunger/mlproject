@@ -1,5 +1,8 @@
 numpy
 pandas
 seaborn
--e .
+matplotlib
+scikit-learn
+dill
+#-e .
 #this will trigger setup.py file
